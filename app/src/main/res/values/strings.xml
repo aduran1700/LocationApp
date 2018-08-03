@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="location_required">LOCATION PERMISSIONS REQUIRED</string>
+</resources>
